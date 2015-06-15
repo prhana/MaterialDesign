@@ -1,0 +1,15 @@
+   <div class="col s12 m4 l4">
+                <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/project4.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">Public Forums <i class="mdi-navigation-more-vert right"></i></span>
+                        <p><a href="#">Project link</a></p>
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">Mass Scale Participatory Engagement <i class="mdi-navigation-close right"></i></span>
+                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
+                    </div>
+                </div>
+            </div>
